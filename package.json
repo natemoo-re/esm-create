@@ -1,0 +1,21 @@
+{
+  "name": "esm-create",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "npm init but nicer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@clack/prompts": "^0.6.3",
+    "dset": "^3.1.2",
+    "execa": "^7.0.0"
+  },
+  "volta": {
+    "node": "16.19.1",
+    "npm": "9.6.1"
+  }
+}

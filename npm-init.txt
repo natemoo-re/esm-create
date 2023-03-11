@@ -1,0 +1,35 @@
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (esm-create) 
+version: (1.0.0) 
+description: npm init but nicer
+entry point: (index.js) 
+test command: 
+git repository: 
+keywords: 
+author: 
+license: (ISC) MIT
+About to write to /Users/nmoo/Developer/natemoo-re/esm-create/package.json:
+
+{
+  "name": "esm-create",
+  "version": "1.0.0",
+  "description": "npm init but nicer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
+
+
+Is this OK? (yes) 

@@ -1,0 +1,16 @@
+{
+  "name": "esm-create",
+  "type": "module",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "author": {
+    "name": "Nate Moore",
+    "email": "nate@natemoo.re",
+    "url": "https://nmoo.dev/"
+  },
+  "license": "MIT"
+}
